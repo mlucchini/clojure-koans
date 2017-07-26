@@ -1,3 +1,5 @@
+[![Build Status](https://img.shields.io/travis/mlucchini/clojure-koans.svg)](https://travis-ci.org/mlucchini/clojure-koans)
+
 # Clojure Koans
 
 The Clojure Koans are a fun way to get started with Clojure - no experience
